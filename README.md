@@ -16,6 +16,4 @@
 ![​image​](240px-Czy.jpg)
 </details>
 
-# 其他信息
-- [个人信息](pages/个人信息.md)
-- [高雅专栏](pages/高雅专栏.md)
+# [查看本仓库的wiki观赏更多高雅信息](https://github.com/ModderkenosisNO/ModderKenosis/wiki)
